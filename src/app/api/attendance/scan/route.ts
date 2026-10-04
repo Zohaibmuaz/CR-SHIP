@@ -53,7 +53,7 @@ export async function POST(req: NextRequest) {
 
       return {
         studentId: stud.id,
-        regNo: stud.regNo,
+        regNo: stud.rollNo,
         name: stud.name,
         pageNumber,
         status: isPresent ? "PRESENT" : "ABSENT",

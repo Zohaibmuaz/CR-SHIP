@@ -37,7 +37,7 @@ export async function GET(req: NextRequest) {
         const existing = session.records.find((r) => r.studentId === stud.id);
         return {
           studentId: stud.id,
-          regNo: stud.regNo,
+          regNo: stud.rollNo,
           name: stud.name,
           pageNumber: idx < midPoint ? 1 : 2,
           status: existing ? existing.status : "PRESENT",
@@ -208,7 +208,7 @@ export async function GET(req: NextRequest) {
 
       return {
         id: stud.id,
-        regNo: stud.regNo,
+        regNo: stud.rollNo,
         name: stud.name,
         presentCount,
         totalCount,
