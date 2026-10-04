@@ -1,0 +1,166 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./cr_nexus.db"
+}
+
+model Student {
+  id                Int                @id @default(autoincrement())
+  rollNo            String             @unique
+  name              String
+  phone             String?
+  email             String?
+  section           String?            @default("CS-7")
+  customFields      String?
+  createdAt         DateTime           @default(now())
+  updatedAt         DateTime           @updatedAt
+  attendanceRecords AttendanceRecord[]
+  groupMembers      GroupMember[]
+}
+
+model Teacher {
+  id             Int             @id @default(autoincrement())
+  name           String
+  phone          String?
+  email          String?
+  office         String?
+  customFields   String?
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+  subjects       Subject[]
+  timetableSlots TimetableSlot[]
+}
+
+model Subject {
+  id                 Int                 @id @default(autoincrement())
+  code               String              @unique
+  name               String
+  creditHours        Int                 @default(3)
+  teacherId          Int?
+  teacher            Teacher?            @relation(fields: [teacherId], references: [id])
+  customFields       String?
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+  timetableSlots     TimetableSlot[]
+  attendanceSessions AttendanceSession[]
+  groups             StudentGroup[]
+  materials          CourseMaterial[]
+  classLogs          ClassLog[]
+}
+
+model TimetableSlot {
+  id           Int      @id @default(autoincrement())
+  dayOfWeek    String
+  startTime    String
+  endTime      String
+  subjectName  String?
+  teacherName  String?
+  subjectId    Int?
+  subject      Subject?  @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  teacherId    Int?
+  teacher      Teacher? @relation(fields: [teacherId], references: [id])
+  room         String
+  type         String   @default("LECTURE")
+  section      String?  @default("BSCS 7th E2")
+  status       String?  @default("SCHEDULED")
+  customFields String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model AttendanceSession {
+  id            Int                @id @default(autoincrement())
+  subjectId     Int
+  subject       Subject            @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  date          String
+  slotTime      String?
+  totalStudents Int                @default(0)
+  presentCount  Int                @default(0)
+  absentCount   Int                @default(0)
+  photoPath     String?
+  notes         String?
+  customFields  String?
+  createdAt     DateTime           @default(now())
+  records       AttendanceRecord[]
+}
+
+model AttendanceRecord {
+  id           Int               @id @default(autoincrement())
+  sessionId    Int
+  session      AttendanceSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  studentId    Int
+  student      Student           @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  status       String            @default("PRESENT")
+  verified     Boolean           @default(true)
+  customFields String?
+}
+
+model StudentGroup {
+  id           Int           @id @default(autoincrement())
+  subjectId    Int
+  subject      Subject       @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  groupNumber  Int
+  groupName    String
+  topic        String?
+  customFields String?
+  members      GroupMember[]
+}
+
+model GroupMember {
+  id           Int          @id @default(autoincrement())
+  groupId      Int
+  group        StudentGroup @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  studentId    Int
+  student      Student      @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  role         String       @default("MEMBER")
+  customFields String?
+}
+
+model CourseMaterial {
+  id           Int      @id @default(autoincrement())
+  subjectId    Int
+  subject      Subject  @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  title        String
+  category     String   @default("SLIDES")
+  linkOrPath   String
+  description  String?
+  customFields String?
+  createdAt    DateTime @default(now())
+}
+
+model ClassLog {
+  id           Int      @id @default(autoincrement())
+  subjectId    Int
+  subject      Subject  @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  date         String
+  status       String   @default("HELD")
+  topicCovered String?
+  reason       String?
+  customFields String?
+  createdAt    DateTime @default(now())
+}
+
+model TaskReminder {
+  id           Int      @id @default(autoincrement())
+  title        String
+  description  String?
+  dueDate      String?
+  reminderTime String?
+  priority     String   @default("MEDIUM")
+  isCompleted  Boolean  @default(false)
+  category     String?
+  customFields String?
+  createdAt    DateTime @default(now())
+}
+
+model AuditLog {
+  id        Int      @id @default(autoincrement())
+  timestamp DateTime @default(now())
+  module    String
+  action    String
+  summary   String
+  payload   String?
+}

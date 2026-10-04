@@ -1,0 +1,2620 @@
+{
+  "metadata": {
+    "appName": "CR-Ship",
+    "exportedAt": "2026-10-04T18:20:55.144Z",
+    "class": "BSCS 7th (E2)",
+    "institution": "University of Agriculture Faisalabad (UAF)",
+    "representative": "Zohaib"
+  },
+  "students": [
+    {
+      "id": 1,
+      "rollNo": "2022-ag-7815",
+      "name": "Ali Raza",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:19.291Z",
+      "updatedAt": "2026-10-04T10:33:19.291Z"
+    },
+    {
+      "id": 2,
+      "rollNo": "2023-ag-10030",
+      "name": "ABDULLAH",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:19.691Z",
+      "updatedAt": "2026-10-04T10:33:19.691Z"
+    },
+    {
+      "id": 3,
+      "rollNo": "2023-ag-10031",
+      "name": "ABDULLAH",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:19.799Z",
+      "updatedAt": "2026-10-04T10:33:19.799Z"
+    },
+    {
+      "id": 4,
+      "rollNo": "2023-ag-10033",
+      "name": "AHMAD FIAZ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:19.901Z",
+      "updatedAt": "2026-10-04T10:33:19.901Z"
+    },
+    {
+      "id": 5,
+      "rollNo": "2023-ag-10034",
+      "name": "AJWA MUSHTAQ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:19.994Z",
+      "updatedAt": "2026-10-04T10:33:19.994Z"
+    },
+    {
+      "id": 6,
+      "rollNo": "2023-ag-10036",
+      "name": "ALI HUSNAIN KASHIF",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.073Z",
+      "updatedAt": "2026-10-04T10:33:20.073Z"
+    },
+    {
+      "id": 7,
+      "rollNo": "2023-ag-10040",
+      "name": "ALISHA FATIMA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.163Z",
+      "updatedAt": "2026-10-04T10:33:20.163Z"
+    },
+    {
+      "id": 8,
+      "rollNo": "2023-ag-10041",
+      "name": "ALIZA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.263Z",
+      "updatedAt": "2026-10-04T10:33:20.263Z"
+    },
+    {
+      "id": 9,
+      "rollNo": "2023-ag-10043",
+      "name": "AMINA SAEED",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.363Z",
+      "updatedAt": "2026-10-04T10:33:20.363Z"
+    },
+    {
+      "id": 10,
+      "rollNo": "2023-ag-10045",
+      "name": "AREEBA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.453Z",
+      "updatedAt": "2026-10-04T10:33:20.453Z"
+    },
+    {
+      "id": 11,
+      "rollNo": "2023-ag-10046",
+      "name": "AROSHA SHEHZADI",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.548Z",
+      "updatedAt": "2026-10-04T10:33:20.548Z"
+    },
+    {
+      "id": 12,
+      "rollNo": "2023-ag-10048",
+      "name": "Ayesha Noor",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.628Z",
+      "updatedAt": "2026-10-04T10:33:20.628Z"
+    },
+    {
+      "id": 13,
+      "rollNo": "2023-ag-10051",
+      "name": "BILAL ARSHAD",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.705Z",
+      "updatedAt": "2026-10-04T10:33:20.705Z"
+    },
+    {
+      "id": 14,
+      "rollNo": "2023-ag-10053",
+      "name": "Dawood Javed",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.794Z",
+      "updatedAt": "2026-10-04T10:33:20.794Z"
+    },
+    {
+      "id": 16,
+      "rollNo": "2023-ag-10055",
+      "name": "EMAN FATIMA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:20.954Z",
+      "updatedAt": "2026-10-04T10:33:20.954Z"
+    },
+    {
+      "id": 17,
+      "rollNo": "2023-ag-10060",
+      "name": "HAFIZA MARYAM\nMAQSOOD",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.034Z",
+      "updatedAt": "2026-10-04T10:33:21.034Z"
+    },
+    {
+      "id": 18,
+      "rollNo": "2023-ag-10061",
+      "name": "HAMMAD",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.128Z",
+      "updatedAt": "2026-10-04T10:33:21.128Z"
+    },
+    {
+      "id": 19,
+      "rollNo": "2023-ag-10063",
+      "name": "HAMZA SHAHID",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.220Z",
+      "updatedAt": "2026-10-04T10:33:21.220Z"
+    },
+    {
+      "id": 20,
+      "rollNo": "2023-ag-10065",
+      "name": "HARAM SULTAN",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.298Z",
+      "updatedAt": "2026-10-04T10:33:21.298Z"
+    },
+    {
+      "id": 21,
+      "rollNo": "2023-ag-10070",
+      "name": "KHANSA BIBI",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.374Z",
+      "updatedAt": "2026-10-04T10:33:21.374Z"
+    },
+    {
+      "id": 22,
+      "rollNo": "2023-ag-10072",
+      "name": "KINZA FATIMA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.460Z",
+      "updatedAt": "2026-10-04T10:33:21.460Z"
+    },
+    {
+      "id": 23,
+      "rollNo": "2023-ag-10075",
+      "name": "LAIKA BUTT",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.532Z",
+      "updatedAt": "2026-10-04T10:33:21.532Z"
+    },
+    {
+      "id": 24,
+      "rollNo": "2023-ag-10078",
+      "name": "MAHEER",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.615Z",
+      "updatedAt": "2026-10-04T10:33:21.615Z"
+    },
+    {
+      "id": 25,
+      "rollNo": "2023-ag-10080",
+      "name": "MARIAMJAVED",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.699Z",
+      "updatedAt": "2026-10-04T10:33:21.699Z"
+    },
+    {
+      "id": 26,
+      "rollNo": "2023-ag-10081",
+      "name": "MARYAM ZAFAR",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.781Z",
+      "updatedAt": "2026-10-04T10:33:21.781Z"
+    },
+    {
+      "id": 27,
+      "rollNo": "2023-ag-10082",
+      "name": "MINAHIL FATIMA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.866Z",
+      "updatedAt": "2026-10-04T10:33:21.866Z"
+    },
+    {
+      "id": 28,
+      "rollNo": "2023-ag-10083",
+      "name": "MOHAMMAD HASSAN ATHER",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:21.952Z",
+      "updatedAt": "2026-10-04T10:33:21.952Z"
+    },
+    {
+      "id": 29,
+      "rollNo": "2023-ag-10084",
+      "name": "MUHAMMAD ABDUL REHMAN FAROOQ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.089Z",
+      "updatedAt": "2026-10-04T10:33:22.089Z"
+    },
+    {
+      "id": 30,
+      "rollNo": "2023-ag-10088",
+      "name": "MUHAMMAD AHMAD",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.176Z",
+      "updatedAt": "2026-10-04T10:33:22.176Z"
+    },
+    {
+      "id": 31,
+      "rollNo": "2023-ag-10089",
+      "name": "MUHAMMAD AHMAD BIN SAEED",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.251Z",
+      "updatedAt": "2026-10-04T10:33:22.251Z"
+    },
+    {
+      "id": 32,
+      "rollNo": "2023-ag-10097",
+      "name": "MUHAMMAD AWAIS RIAZ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.339Z",
+      "updatedAt": "2026-10-04T10:33:22.339Z"
+    },
+    {
+      "id": 33,
+      "rollNo": "2023-ag-10099",
+      "name": "MUHAMMAD BILAL",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.417Z",
+      "updatedAt": "2026-10-04T10:33:22.417Z"
+    },
+    {
+      "id": 34,
+      "rollNo": "2023-ag-10102",
+      "name": "MUHAMMAD DANYAL",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.496Z",
+      "updatedAt": "2026-10-04T10:33:22.496Z"
+    },
+    {
+      "id": 35,
+      "rollNo": "2023-ag-10103",
+      "name": "MUHAMMAD GULSHER",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.573Z",
+      "updatedAt": "2026-10-04T10:33:22.573Z"
+    },
+    {
+      "id": 37,
+      "rollNo": "2023-ag-10105",
+      "name": "MUHAMMAD HAMZA NADEEM",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.723Z",
+      "updatedAt": "2026-10-04T10:33:22.723Z"
+    },
+    {
+      "id": 38,
+      "rollNo": "2023-ag-10107",
+      "name": "MUHAMMAD HASNAIN",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.798Z",
+      "updatedAt": "2026-10-04T10:33:22.798Z"
+    },
+    {
+      "id": 39,
+      "rollNo": "2023-ag-10108",
+      "name": "MUHAMMAD HASSAN MUJTABA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.881Z",
+      "updatedAt": "2026-10-04T10:33:22.881Z"
+    },
+    {
+      "id": 40,
+      "rollNo": "2023-ag-10109",
+      "name": "MUHAMMAD HUSNAIN SARWAR",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:22.979Z",
+      "updatedAt": "2026-10-04T10:33:22.979Z"
+    },
+    {
+      "id": 41,
+      "rollNo": "2023-ag-10111",
+      "name": "MUHAMMAD HUZAIFA AMIN",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.057Z",
+      "updatedAt": "2026-10-04T10:33:23.057Z"
+    },
+    {
+      "id": 42,
+      "rollNo": "2023-ag-10113",
+      "name": "MUHAMMAD MUDASSIR ARIF",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.136Z",
+      "updatedAt": "2026-10-04T10:33:23.136Z"
+    },
+    {
+      "id": 43,
+      "rollNo": "2023-ag-10118",
+      "name": "MUHAMMAD QASIM",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.214Z",
+      "updatedAt": "2026-10-04T10:33:23.214Z"
+    },
+    {
+      "id": 44,
+      "rollNo": "2023-ag-10119",
+      "name": "MUHAMMAD SAAD ALI",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.302Z",
+      "updatedAt": "2026-10-04T10:33:23.302Z"
+    },
+    {
+      "id": 45,
+      "rollNo": "2023-ag-10120",
+      "name": "MUHAMMAD SABOOR",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.378Z",
+      "updatedAt": "2026-10-04T10:33:23.378Z"
+    },
+    {
+      "id": 46,
+      "rollNo": "2023-ag-10121",
+      "name": "MUHAMMAD SAJWAR\nBABAR",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.461Z",
+      "updatedAt": "2026-10-04T10:33:23.461Z"
+    },
+    {
+      "id": 47,
+      "rollNo": "2023-ag-10122",
+      "name": "MUHAMMAD SHARJEEL SHAHID",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.537Z",
+      "updatedAt": "2026-10-04T10:33:23.537Z"
+    },
+    {
+      "id": 48,
+      "rollNo": "2023-ag-10123",
+      "name": "MUHAMMAD TAYYUB",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.610Z",
+      "updatedAt": "2026-10-04T10:33:23.610Z"
+    },
+    {
+      "id": 49,
+      "rollNo": "2023-ag-10126",
+      "name": "MUHAMMAD USMAN",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.686Z",
+      "updatedAt": "2026-10-04T10:33:23.686Z"
+    },
+    {
+      "id": 50,
+      "rollNo": "2023-ag-10129",
+      "name": "MUHAMMAD ZOHAD IJAZ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.759Z",
+      "updatedAt": "2026-10-04T10:33:23.759Z"
+    },
+    {
+      "id": 51,
+      "rollNo": "2023-ag-10135",
+      "name": "RANA MUHAMMAD SALMAN",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.835Z",
+      "updatedAt": "2026-10-04T10:33:23.835Z"
+    },
+    {
+      "id": 52,
+      "rollNo": "2023-ag-10137",
+      "name": "RAO ADNAN PARVAIZ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:23.924Z",
+      "updatedAt": "2026-10-04T10:33:23.924Z"
+    },
+    {
+      "id": 53,
+      "rollNo": "2023-ag-10138",
+      "name": "REHAN ASLAM",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.024Z",
+      "updatedAt": "2026-10-04T10:33:24.024Z"
+    },
+    {
+      "id": 54,
+      "rollNo": "2023-ag-10139",
+      "name": "ROHA BATOOL",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.103Z",
+      "updatedAt": "2026-10-04T10:33:24.103Z"
+    },
+    {
+      "id": 55,
+      "rollNo": "2023-ag-10140",
+      "name": "SADIA FARKH",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.184Z",
+      "updatedAt": "2026-10-04T10:33:24.184Z"
+    },
+    {
+      "id": 56,
+      "rollNo": "2023-ag-10148",
+      "name": "SOHAIB AHMAD",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.275Z",
+      "updatedAt": "2026-10-04T10:33:24.275Z"
+    },
+    {
+      "id": 57,
+      "rollNo": "2023-ag-10150",
+      "name": "SUMAMA SONIA",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.366Z",
+      "updatedAt": "2026-10-04T10:33:24.366Z"
+    },
+    {
+      "id": 58,
+      "rollNo": "2023-ag-10151",
+      "name": "SYED MUHAMMAD DUR E\nADAN RIZVI",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.442Z",
+      "updatedAt": "2026-10-04T10:33:24.442Z"
+    },
+    {
+      "id": 59,
+      "rollNo": "2023-ag-10153",
+      "name": "TAYYABA JABBAR",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.515Z",
+      "updatedAt": "2026-10-04T10:33:24.515Z"
+    },
+    {
+      "id": 60,
+      "rollNo": "2023-ag-10158",
+      "name": "ZAIN AMJAD",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.591Z",
+      "updatedAt": "2026-10-04T10:33:24.591Z"
+    },
+    {
+      "id": 61,
+      "rollNo": "2023-ag-10159",
+      "name": "Zoha",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.665Z",
+      "updatedAt": "2026-10-04T10:33:24.665Z"
+    },
+    {
+      "id": 62,
+      "rollNo": "2023-ag-10160",
+      "name": "ZOHAIB MUAZ",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.741Z",
+      "updatedAt": "2026-10-04T10:33:24.741Z"
+    },
+    {
+      "id": 63,
+      "rollNo": "2023-ag-7770",
+      "name": "MUHAMMAD SHEHROZE",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.830Z",
+      "updatedAt": "2026-10-04T10:33:24.830Z"
+    },
+    {
+      "id": 64,
+      "rollNo": "2022-ag-7766",
+      "name": "M Farhan UR Rasool",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:33:24.930Z",
+      "updatedAt": "2026-10-04T10:33:24.930Z"
+    },
+    {
+      "id": 65,
+      "rollNo": "2023-ag-8847",
+      "name": "OMAMA RAMZAN",
+      "phone": null,
+      "email": null,
+      "section": "BSCS 7th E2",
+      "customFields": null,
+      "createdAt": "2026-10-04T10:36:53.408Z",
+      "updatedAt": "2026-10-04T10:36:53.408Z"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Sir Hassan Zulfiqar",
+      "phone": "+92 321 9603300",
+      "email": null,
+      "office": "Dept. of Computer Science",
+      "customFields": "{\"department\":\"Computer Science\",\"role\":\"Faculty\",\"office\":\"Dept. of Computer Science\",\"bestTimes\":\"10:00 AM - 1:00 PM\"}",
+      "createdAt": "2026-10-04T11:54:10.437Z",
+      "updatedAt": "2026-10-04T14:57:24.712Z"
+    },
+    {
+      "id": 2,
+      "name": "Ms. Kainat Amjad",
+      "phone": "+92 313 1714723",
+      "email": null,
+      "office": null,
+      "customFields": "{\"department\":\"Computer Science\",\"role\":\"Faculty\"}",
+      "createdAt": "2026-10-04T11:54:10.619Z",
+      "updatedAt": "2026-10-04T14:44:02.315Z"
+    },
+    {
+      "id": 3,
+      "name": "Miss Amina Amir",
+      "phone": "+92 315 7059123",
+      "email": null,
+      "office": null,
+      "customFields": "{\"department\":\"Computer Science\",\"role\":\"Faculty\"}",
+      "createdAt": "2026-10-04T11:54:10.792Z",
+      "updatedAt": "2026-10-04T14:44:02.401Z"
+    },
+    {
+      "id": 4,
+      "name": "Ms. Anum Khalid (VF)",
+      "phone": "+92 309 4349009",
+      "email": null,
+      "office": null,
+      "customFields": "{\"department\":\"Computer Science\",\"role\":\"Faculty\"}",
+      "createdAt": "2026-10-04T11:54:10.950Z",
+      "updatedAt": "2026-10-04T14:44:02.228Z"
+    },
+    {
+      "id": 5,
+      "name": "Pending Faculty",
+      "phone": null,
+      "email": null,
+      "office": null,
+      "customFields": "{\"department\":\"Computer Science\",\"role\":\"Faculty\"}",
+      "createdAt": "2026-10-04T11:54:11.116Z",
+      "updatedAt": "2026-10-04T11:54:11.116Z"
+    },
+    {
+      "id": 6,
+      "name": "Miss Faiza (VF)",
+      "phone": "+92 318 4739353",
+      "email": null,
+      "office": null,
+      "customFields": "{\"department\":\"Computer Science\",\"role\":\"Faculty\"}",
+      "createdAt": "2026-10-04T11:54:11.269Z",
+      "updatedAt": "2026-10-04T14:44:01.841Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "code": "ARE-508",
+      "name": "HUMAN RESOURCE MANAGEMENT",
+      "creditHours": 3,
+      "teacherId": 1,
+      "customFields": "{\"semester\":\"7th\",\"section\":\"BSCS 7th E2\",\"maxMembers\":5}",
+      "createdAt": "2026-10-04T11:54:10.528Z",
+      "updatedAt": "2026-10-04T13:26:19.806Z"
+    },
+    {
+      "id": 2,
+      "code": "CS-601",
+      "name": "GRAPH THEORY",
+      "creditHours": 3,
+      "teacherId": 2,
+      "customFields": "{\"semester\":\"7th\",\"section\":\"BSCS 7th E2\",\"mainDriveLink\":\"https://drive.google.com/drive/folders/1aBcDeFgHiJkLmNoPqRsTuVwXyZ\"}",
+      "createdAt": "2026-10-04T11:54:10.702Z",
+      "updatedAt": "2026-10-04T13:45:31.611Z"
+    },
+    {
+      "id": 3,
+      "code": "IT-601",
+      "name": "HUMAN COMPUTER INTERACTION",
+      "creditHours": 3,
+      "teacherId": 3,
+      "customFields": "{\"semester\":\"7th\",\"section\":\"BSCS 7th E2\"}",
+      "createdAt": "2026-10-04T11:54:10.868Z",
+      "updatedAt": "2026-10-04T11:54:10.868Z"
+    },
+    {
+      "id": 4,
+      "code": "CS-603",
+      "name": "COMPILER CONSTRUCTION",
+      "creditHours": 3,
+      "teacherId": 4,
+      "customFields": "{\"semester\":\"7th\",\"section\":\"BSCS 7th E2\"}",
+      "createdAt": "2026-10-04T11:54:11.025Z",
+      "updatedAt": "2026-10-04T11:54:11.025Z"
+    },
+    {
+      "id": 5,
+      "code": "BBA-603",
+      "name": "ENTREPRENEURSHIP",
+      "creditHours": 3,
+      "teacherId": 5,
+      "customFields": "{\"semester\":\"7th\",\"section\":\"BSCS 7th E2\",\"maxMembers\":3}",
+      "createdAt": "2026-10-04T11:54:11.183Z",
+      "updatedAt": "2026-10-04T13:17:18.890Z"
+    },
+    {
+      "id": 6,
+      "code": "CS-605",
+      "name": "THEORY OF AUTOMATA",
+      "creditHours": 3,
+      "teacherId": 6,
+      "customFields": "{\"semester\":\"7th\",\"section\":\"BSCS 7th E2\",\"maxMembers\":3}",
+      "createdAt": "2026-10-04T11:54:11.350Z",
+      "updatedAt": "2026-10-04T13:17:46.710Z"
+    }
+  ],
+  "timetableSlots": [
+    {
+      "id": 11,
+      "dayOfWeek": "Monday",
+      "startTime": "2:00",
+      "endTime": "3:40",
+      "subjectName": "IT-601-P",
+      "teacherName": "Miss. Amina Amir",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "Second Floor Lab#1",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:48.698Z",
+      "updatedAt": "2026-10-04T15:16:48.698Z"
+    },
+    {
+      "id": 12,
+      "dayOfWeek": "Monday",
+      "startTime": "3:40",
+      "endTime": "5:20",
+      "subjectName": "CS-605-P",
+      "teacherName": "Miss Faiza",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "G-Floor R#3",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:48.823Z",
+      "updatedAt": "2026-10-04T15:16:48.823Z"
+    },
+    {
+      "id": 13,
+      "dayOfWeek": "Monday",
+      "startTime": "5:20",
+      "endTime": "7:00",
+      "subjectName": "CS-603-P",
+      "teacherName": "Ms.Anum Khalid",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "G-Floor R#2",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:48.926Z",
+      "updatedAt": "2026-10-04T15:16:48.926Z"
+    },
+    {
+      "id": 14,
+      "dayOfWeek": "Thursday",
+      "startTime": "2:00",
+      "endTime": "4:30",
+      "subjectName": "CS-601-T",
+      "teacherName": "Ms. Kainat Amjad",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "IT-Building CS-Lab",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:49.022Z",
+      "updatedAt": "2026-10-04T15:16:49.022Z"
+    },
+    {
+      "id": 15,
+      "dayOfWeek": "Thursday",
+      "startTime": "4:30",
+      "endTime": "7:00",
+      "subjectName": "ARE-508",
+      "teacherName": "Sir Hassan Zulfiqar",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "IT-Building CS-Lab",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:49.147Z",
+      "updatedAt": "2026-10-04T15:16:49.147Z"
+    },
+    {
+      "id": 16,
+      "dayOfWeek": "Tuesday",
+      "startTime": "2:00",
+      "endTime": "3:40",
+      "subjectName": "CS-605-T",
+      "teacherName": "Miss Faiza",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "Second Floor Lab#4",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:49.241Z",
+      "updatedAt": "2026-10-04T15:16:49.241Z"
+    },
+    {
+      "id": 17,
+      "dayOfWeek": "Tuesday",
+      "startTime": "3:40",
+      "endTime": "5:20",
+      "subjectName": "CS-603-P",
+      "teacherName": "Ms.Anum Khalid",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "Second Floor Lab#4",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:49.488Z",
+      "updatedAt": "2026-10-04T15:16:49.488Z"
+    },
+    {
+      "id": 18,
+      "dayOfWeek": "Wednesday",
+      "startTime": "2:00",
+      "endTime": "3:40",
+      "subjectName": "IT-601-T",
+      "teacherName": "Miss. Amina Amir",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "Second Floor Lab#2",
+      "type": "LAB",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:49.593Z",
+      "updatedAt": "2026-10-04T15:16:49.593Z"
+    },
+    {
+      "id": 19,
+      "dayOfWeek": "Wednesday",
+      "startTime": "4:30",
+      "endTime": "7:00",
+      "subjectName": "BBA-603",
+      "teacherName": "Ms.Fatima Tu Fuhra",
+      "subjectId": null,
+      "teacherId": null,
+      "room": "IT-Building R#2",
+      "type": "LECTURE",
+      "section": "BSCS 7th E2",
+      "status": "SCHEDULED",
+      "customFields": null,
+      "createdAt": "2026-10-04T15:16:49.718Z",
+      "updatedAt": "2026-10-04T15:16:49.718Z"
+    }
+  ],
+  "attendanceSessions": [
+    {
+      "id": 2,
+      "subjectId": 6,
+      "date": "2026-10-03",
+      "slotTime": "3:40 - 5:20",
+      "totalStudents": 63,
+      "presentCount": 60,
+      "absentCount": 3,
+      "photoPath": null,
+      "notes": null,
+      "customFields": "{\"markedVia\":\"2-Page Signature OCR / Quick Toggle\"}",
+      "createdAt": "2026-10-04T12:01:04.572Z"
+    },
+    {
+      "id": 4,
+      "subjectId": 1,
+      "date": "2026-10-04",
+      "slotTime": "Evening Slot",
+      "totalStudents": 63,
+      "presentCount": 60,
+      "absentCount": 3,
+      "photoPath": null,
+      "notes": null,
+      "customFields": "{\"markedVia\":\"2-Page Signature OCR / Quick Toggle\"}",
+      "createdAt": "2026-10-04T12:12:58.915Z"
+    }
+  ],
+  "attendanceRecords": [
+    {
+      "id": 442,
+      "sessionId": 4,
+      "studentId": 1,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 443,
+      "sessionId": 4,
+      "studentId": 2,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 444,
+      "sessionId": 4,
+      "studentId": 3,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 445,
+      "sessionId": 4,
+      "studentId": 4,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 446,
+      "sessionId": 4,
+      "studentId": 5,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 447,
+      "sessionId": 4,
+      "studentId": 6,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 448,
+      "sessionId": 4,
+      "studentId": 7,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 449,
+      "sessionId": 4,
+      "studentId": 8,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 450,
+      "sessionId": 4,
+      "studentId": 9,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 451,
+      "sessionId": 4,
+      "studentId": 10,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 452,
+      "sessionId": 4,
+      "studentId": 11,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 453,
+      "sessionId": 4,
+      "studentId": 12,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 454,
+      "sessionId": 4,
+      "studentId": 13,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 455,
+      "sessionId": 4,
+      "studentId": 14,
+      "status": "ABSENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 456,
+      "sessionId": 4,
+      "studentId": 16,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 457,
+      "sessionId": 4,
+      "studentId": 17,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 458,
+      "sessionId": 4,
+      "studentId": 18,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 459,
+      "sessionId": 4,
+      "studentId": 19,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 460,
+      "sessionId": 4,
+      "studentId": 20,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 461,
+      "sessionId": 4,
+      "studentId": 21,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 462,
+      "sessionId": 4,
+      "studentId": 22,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 463,
+      "sessionId": 4,
+      "studentId": 23,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 464,
+      "sessionId": 4,
+      "studentId": 24,
+      "status": "ABSENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 465,
+      "sessionId": 4,
+      "studentId": 25,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 466,
+      "sessionId": 4,
+      "studentId": 26,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 467,
+      "sessionId": 4,
+      "studentId": 27,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 468,
+      "sessionId": 4,
+      "studentId": 28,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 469,
+      "sessionId": 4,
+      "studentId": 29,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 470,
+      "sessionId": 4,
+      "studentId": 30,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 471,
+      "sessionId": 4,
+      "studentId": 31,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 472,
+      "sessionId": 4,
+      "studentId": 32,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 473,
+      "sessionId": 4,
+      "studentId": 33,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 474,
+      "sessionId": 4,
+      "studentId": 34,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 475,
+      "sessionId": 4,
+      "studentId": 35,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 476,
+      "sessionId": 4,
+      "studentId": 37,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 477,
+      "sessionId": 4,
+      "studentId": 38,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 478,
+      "sessionId": 4,
+      "studentId": 39,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 479,
+      "sessionId": 4,
+      "studentId": 40,
+      "status": "ABSENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 480,
+      "sessionId": 4,
+      "studentId": 41,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 481,
+      "sessionId": 4,
+      "studentId": 42,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 482,
+      "sessionId": 4,
+      "studentId": 43,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 483,
+      "sessionId": 4,
+      "studentId": 44,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 484,
+      "sessionId": 4,
+      "studentId": 45,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 485,
+      "sessionId": 4,
+      "studentId": 46,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 486,
+      "sessionId": 4,
+      "studentId": 47,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 487,
+      "sessionId": 4,
+      "studentId": 48,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 488,
+      "sessionId": 4,
+      "studentId": 49,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 489,
+      "sessionId": 4,
+      "studentId": 50,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 490,
+      "sessionId": 4,
+      "studentId": 51,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 491,
+      "sessionId": 4,
+      "studentId": 52,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 492,
+      "sessionId": 4,
+      "studentId": 53,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 493,
+      "sessionId": 4,
+      "studentId": 54,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 494,
+      "sessionId": 4,
+      "studentId": 55,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 495,
+      "sessionId": 4,
+      "studentId": 56,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 496,
+      "sessionId": 4,
+      "studentId": 57,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 497,
+      "sessionId": 4,
+      "studentId": 58,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 498,
+      "sessionId": 4,
+      "studentId": 59,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 499,
+      "sessionId": 4,
+      "studentId": 60,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 500,
+      "sessionId": 4,
+      "studentId": 61,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 501,
+      "sessionId": 4,
+      "studentId": 62,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 502,
+      "sessionId": 4,
+      "studentId": 63,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 503,
+      "sessionId": 4,
+      "studentId": 64,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 504,
+      "sessionId": 4,
+      "studentId": 65,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 505,
+      "sessionId": 2,
+      "studentId": 1,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 506,
+      "sessionId": 2,
+      "studentId": 2,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 507,
+      "sessionId": 2,
+      "studentId": 3,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 508,
+      "sessionId": 2,
+      "studentId": 4,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 509,
+      "sessionId": 2,
+      "studentId": 5,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 510,
+      "sessionId": 2,
+      "studentId": 6,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 511,
+      "sessionId": 2,
+      "studentId": 7,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 512,
+      "sessionId": 2,
+      "studentId": 8,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 513,
+      "sessionId": 2,
+      "studentId": 9,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 514,
+      "sessionId": 2,
+      "studentId": 10,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 515,
+      "sessionId": 2,
+      "studentId": 11,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 516,
+      "sessionId": 2,
+      "studentId": 12,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 517,
+      "sessionId": 2,
+      "studentId": 13,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 518,
+      "sessionId": 2,
+      "studentId": 14,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 519,
+      "sessionId": 2,
+      "studentId": 16,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 520,
+      "sessionId": 2,
+      "studentId": 17,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 521,
+      "sessionId": 2,
+      "studentId": 18,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 522,
+      "sessionId": 2,
+      "studentId": 19,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 523,
+      "sessionId": 2,
+      "studentId": 20,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 524,
+      "sessionId": 2,
+      "studentId": 21,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 525,
+      "sessionId": 2,
+      "studentId": 22,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 526,
+      "sessionId": 2,
+      "studentId": 23,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 527,
+      "sessionId": 2,
+      "studentId": 24,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 528,
+      "sessionId": 2,
+      "studentId": 25,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 529,
+      "sessionId": 2,
+      "studentId": 26,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 530,
+      "sessionId": 2,
+      "studentId": 27,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 531,
+      "sessionId": 2,
+      "studentId": 28,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 532,
+      "sessionId": 2,
+      "studentId": 29,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 533,
+      "sessionId": 2,
+      "studentId": 30,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 534,
+      "sessionId": 2,
+      "studentId": 31,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 535,
+      "sessionId": 2,
+      "studentId": 32,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 536,
+      "sessionId": 2,
+      "studentId": 33,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 537,
+      "sessionId": 2,
+      "studentId": 34,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 538,
+      "sessionId": 2,
+      "studentId": 35,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 539,
+      "sessionId": 2,
+      "studentId": 37,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 540,
+      "sessionId": 2,
+      "studentId": 38,
+      "status": "ABSENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 541,
+      "sessionId": 2,
+      "studentId": 39,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 542,
+      "sessionId": 2,
+      "studentId": 40,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 543,
+      "sessionId": 2,
+      "studentId": 41,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 544,
+      "sessionId": 2,
+      "studentId": 42,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 545,
+      "sessionId": 2,
+      "studentId": 43,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 546,
+      "sessionId": 2,
+      "studentId": 44,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 547,
+      "sessionId": 2,
+      "studentId": 45,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 548,
+      "sessionId": 2,
+      "studentId": 46,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 549,
+      "sessionId": 2,
+      "studentId": 47,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 550,
+      "sessionId": 2,
+      "studentId": 48,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 551,
+      "sessionId": 2,
+      "studentId": 49,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 552,
+      "sessionId": 2,
+      "studentId": 50,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 553,
+      "sessionId": 2,
+      "studentId": 51,
+      "status": "ABSENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 554,
+      "sessionId": 2,
+      "studentId": 52,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 555,
+      "sessionId": 2,
+      "studentId": 53,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 556,
+      "sessionId": 2,
+      "studentId": 54,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 557,
+      "sessionId": 2,
+      "studentId": 55,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 558,
+      "sessionId": 2,
+      "studentId": 56,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 559,
+      "sessionId": 2,
+      "studentId": 57,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 560,
+      "sessionId": 2,
+      "studentId": 58,
+      "status": "ABSENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 561,
+      "sessionId": 2,
+      "studentId": 59,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 562,
+      "sessionId": 2,
+      "studentId": 60,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 563,
+      "sessionId": 2,
+      "studentId": 61,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 564,
+      "sessionId": 2,
+      "studentId": 62,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 565,
+      "sessionId": 2,
+      "studentId": 63,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 566,
+      "sessionId": 2,
+      "studentId": 64,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    },
+    {
+      "id": 567,
+      "sessionId": 2,
+      "studentId": 65,
+      "status": "PRESENT",
+      "verified": true,
+      "customFields": null
+    }
+  ],
+  "studentGroups": [
+    {
+      "id": 14,
+      "subjectId": 1,
+      "groupNumber": 4,
+      "groupName": "Group 4",
+      "topic": "Human Computer Interaction Usability Study",
+      "customFields": null
+    },
+    {
+      "id": 15,
+      "subjectId": 1,
+      "groupNumber": 2,
+      "groupName": "Group 2",
+      "topic": "Mobile UI Design System & Accessibility",
+      "customFields": null
+    },
+    {
+      "id": 17,
+      "subjectId": 1,
+      "groupNumber": 3,
+      "groupName": "Group 3",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 18,
+      "subjectId": 1,
+      "groupNumber": 1,
+      "groupName": "Group 1",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 19,
+      "subjectId": 1,
+      "groupNumber": 6,
+      "groupName": "Group 6",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 20,
+      "subjectId": 1,
+      "groupNumber": 5,
+      "groupName": "Group 5",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 21,
+      "subjectId": 1,
+      "groupNumber": 7,
+      "groupName": "Group 7",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 22,
+      "subjectId": 1,
+      "groupNumber": 8,
+      "groupName": "Group 8",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 23,
+      "subjectId": 1,
+      "groupNumber": 9,
+      "groupName": "Group 9",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 24,
+      "subjectId": 1,
+      "groupNumber": 10,
+      "groupName": "Group 10",
+      "topic": null,
+      "customFields": null
+    },
+    {
+      "id": 25,
+      "subjectId": 1,
+      "groupNumber": 11,
+      "groupName": "Group 11",
+      "topic": null,
+      "customFields": null
+    }
+  ],
+  "groupMembers": [
+    {
+      "id": 21,
+      "groupId": 14,
+      "studentId": 64,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 22,
+      "groupId": 14,
+      "studentId": 1,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 23,
+      "groupId": 14,
+      "studentId": 2,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 24,
+      "groupId": 15,
+      "studentId": 4,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 25,
+      "groupId": 15,
+      "studentId": 5,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 26,
+      "groupId": 15,
+      "studentId": 6,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 30,
+      "groupId": 17,
+      "studentId": 11,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 31,
+      "groupId": 17,
+      "studentId": 62,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 32,
+      "groupId": 17,
+      "studentId": 55,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 33,
+      "groupId": 17,
+      "studentId": 39,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 34,
+      "groupId": 17,
+      "studentId": 3,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 35,
+      "groupId": 18,
+      "studentId": 20,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 36,
+      "groupId": 18,
+      "studentId": 25,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 37,
+      "groupId": 18,
+      "studentId": 30,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 38,
+      "groupId": 18,
+      "studentId": 26,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 39,
+      "groupId": 19,
+      "studentId": 23,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 40,
+      "groupId": 20,
+      "studentId": 21,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 41,
+      "groupId": 19,
+      "studentId": 13,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 42,
+      "groupId": 20,
+      "studentId": 41,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 43,
+      "groupId": 19,
+      "studentId": 42,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 44,
+      "groupId": 19,
+      "studentId": 38,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 45,
+      "groupId": 20,
+      "studentId": 35,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 46,
+      "groupId": 20,
+      "studentId": 45,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 47,
+      "groupId": 21,
+      "studentId": 43,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 48,
+      "groupId": 22,
+      "studentId": 49,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 49,
+      "groupId": 21,
+      "studentId": 44,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 50,
+      "groupId": 23,
+      "studentId": 51,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 51,
+      "groupId": 21,
+      "studentId": 48,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 52,
+      "groupId": 22,
+      "studentId": 53,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 53,
+      "groupId": 23,
+      "studentId": 50,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 54,
+      "groupId": 22,
+      "studentId": 52,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 55,
+      "groupId": 23,
+      "studentId": 37,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 56,
+      "groupId": 15,
+      "studentId": 8,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 57,
+      "groupId": 14,
+      "studentId": 9,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 58,
+      "groupId": 22,
+      "studentId": 60,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 59,
+      "groupId": 19,
+      "studentId": 58,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 60,
+      "groupId": 15,
+      "studentId": 31,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 61,
+      "groupId": 18,
+      "studentId": 46,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 62,
+      "groupId": 21,
+      "studentId": 63,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 63,
+      "groupId": 14,
+      "studentId": 14,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 64,
+      "groupId": 23,
+      "studentId": 61,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 65,
+      "groupId": 22,
+      "studentId": 65,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 66,
+      "groupId": 23,
+      "studentId": 59,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 67,
+      "groupId": 21,
+      "studentId": 56,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 68,
+      "groupId": 25,
+      "studentId": 10,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 69,
+      "groupId": 25,
+      "studentId": 12,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 70,
+      "groupId": 20,
+      "studentId": 33,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 71,
+      "groupId": 25,
+      "studentId": 29,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 72,
+      "groupId": 24,
+      "studentId": 40,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 73,
+      "groupId": 24,
+      "studentId": 57,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 74,
+      "groupId": 24,
+      "studentId": 19,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 75,
+      "groupId": 25,
+      "studentId": 27,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 76,
+      "groupId": 25,
+      "studentId": 7,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 77,
+      "groupId": 24,
+      "studentId": 32,
+      "role": "MEMBER",
+      "customFields": null
+    },
+    {
+      "id": 78,
+      "groupId": 24,
+      "studentId": 24,
+      "role": "MEMBER",
+      "customFields": null
+    }
+  ],
+  "courseMaterials": [
+    {
+      "id": 1,
+      "subjectId": 2,
+      "title": "Lectures 1 to 5 Graph Representation & Algorithms (Updated)",
+      "category": "SLIDES",
+      "linkOrPath": "https://drive.google.com/file/d/1XyZ98765/view",
+      "description": "Now includes Dijkstra shortest path algorithm",
+      "customFields": null,
+      "createdAt": "2026-10-04T13:45:39.341Z"
+    },
+    {
+      "id": 2,
+      "subjectId": 2,
+      "title": "Introduction to Graph Theory by Douglas B. West (2nd Ed)",
+      "category": "BOOKS",
+      "linkOrPath": "https://drive.google.com/file/d/2AbCdEfGh/view",
+      "description": "Official reference textbook recommended by Ms. Kainat Amjad",
+      "customFields": null,
+      "createdAt": "2026-10-04T13:45:39.346Z"
+    },
+    {
+      "id": 4,
+      "subjectId": 1,
+      "title": "Lecture 5 to 8 Shortest Path & Dijkstra Slides",
+      "category": "SLIDES",
+      "linkOrPath": "https://drive.google.com/file/d/1A2B3C4D/view",
+      "description": null,
+      "customFields": null,
+      "createdAt": "2026-10-04T14:02:24.212Z"
+    },
+    {
+      "id": 5,
+      "subjectId": 2,
+      "title": "Douglas West Graph Theory 2nd Edition Textbook",
+      "category": "BOOKS",
+      "linkOrPath": "https://drive.google.com/file/d/2E3F4G5H/view",
+      "description": null,
+      "customFields": null,
+      "createdAt": "2026-10-04T14:02:24.228Z"
+    },
+    {
+      "id": 6,
+      "subjectId": 1,
+      "title": "Midterm Past Papers 2021 to 2024 with Solutions",
+      "category": "PAST_PAPERS",
+      "linkOrPath": "https://drive.google.com/folder/3I4J5K6L/view",
+      "description": null,
+      "customFields": null,
+      "createdAt": "2026-10-04T14:02:24.231Z"
+    },
+    {
+      "id": 7,
+      "subjectId": 1,
+      "title": "Chapter 4 Trees and Spanning Forests Handout",
+      "category": "HANDOUTS",
+      "linkOrPath": "https://mega.nz/folder/tree-notes",
+      "description": null,
+      "customFields": null,
+      "createdAt": "2026-10-04T14:02:24.234Z"
+    }
+  ],
+  "classLogs": [
+    {
+      "id": 1,
+      "subjectId": 6,
+      "date": "2026-10-04",
+      "status": "HELD",
+      "topicCovered": "Lecture 4: Deterministic Finite Automata (DFA) state transitions",
+      "reason": null,
+      "customFields": null,
+      "createdAt": "2026-10-04T14:46:39.666Z"
+    },
+    {
+      "id": 2,
+      "subjectId": 4,
+      "date": "2026-10-04",
+      "status": "CANCELLED",
+      "topicCovered": null,
+      "reason": "Instructor attending departmental faculty meeting",
+      "customFields": null,
+      "createdAt": "2026-10-04T14:47:01.835Z"
+    }
+  ],
+  "taskReminders": [
+    {
+      "id": 1,
+      "title": "Collect CS-603 Compiler Construction Assignment 1",
+      "description": "Collect all 63 student printed assignment reports and verify serial numbers before Ms. Anum Khalid class",
+      "dueDate": "2026-10-04",
+      "reminderTime": "20:08",
+      "priority": "URGENT",
+      "isCompleted": false,
+      "category": "ASSIGNMENT",
+      "customFields": "{\"notifiedAt\":\"2026-10-04T15:02:59.864Z\"}",
+      "createdAt": "2026-10-04T15:02:28.997Z"
+    },
+    {
+      "id": 2,
+      "title": "dfdf",
+      "description": null,
+      "dueDate": "2026-10-04",
+      "reminderTime": "22:31",
+      "priority": "HIGH",
+      "isCompleted": false,
+      "category": "ASSIGNMENT",
+      "customFields": "{\"notifiedAt\":\"2026-10-04T15:08:08.109Z\"}",
+      "createdAt": "2026-10-04T15:07:06.882Z"
+    },
+    {
+      "id": 3,
+      "title": "ddfgdf",
+      "description": null,
+      "dueDate": "2026-10-04",
+      "reminderTime": "22:39",
+      "priority": "HIGH",
+      "isCompleted": false,
+      "category": "ASSIGNMENT",
+      "customFields": "{\"notifiedAt\":\"2026-10-04T17:39:06.547Z\"}",
+      "createdAt": "2026-10-04T17:38:33.365Z"
+    }
+  ]
+}
